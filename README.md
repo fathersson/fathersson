@@ -18,4 +18,4 @@
 
 ### My projects
 
-*   [SimpleBashUtils](https://github.com/fathersson/C3_SimpleBashUtils-1) - Development of Bash text utilities: cat, grep.
+*   [SimpleBashUtils](https://github.com/fathersson/C3_SimpleBashUtils-1) - Development of Bash text utilities: cat, grep. (134% complete)
