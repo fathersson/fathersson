@@ -11,8 +11,10 @@
 </h4>
 
 ## 🛠 Technical Stack
+*   Golang
+*   PostgreSQL
+*   Kafka
 *   C language
-*   GitHub/GitLab
 *   Linux/Mac OS/Windows
 *   Terminal/Bash
 
