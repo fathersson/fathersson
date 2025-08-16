@@ -21,4 +21,5 @@
 ### My projects
 
 *   [SimpleBashUtils](https://github.com/fathersson/C3_SimpleBashUtils-1) - Development of Bash text utilities: cat, grep. (134% complete)
-*   [C2_s21_stringplus-1](https://github.com/fathersson/C2_s21_stringplus-1) - Implementation of the string.h library (16 functions without tests and makefile)
+*   [Stringplus](https://github.com/fathersson/C2_s21_stringplus-1) - Implementation of the string.h library (16 functions without tests and makefile)
+*   [GolangService](https://github.com/fathersson/GolangService) - Демонстрационный сервис с Kafka, PostgreSQL, кешем (WbTex L0)
