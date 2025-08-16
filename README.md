@@ -1,5 +1,5 @@
 # Hi, I'm Roman 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=03F700&center=true&multiline=true&random=false&width=1000&height=29&lines=Pre-junior+programmer.+I+study+at+school+21.+I+post+my+finished+projects+on+GitHub." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=03F700&center=true&multiline=true&random=false&width=1000&height=29&lines=Golang+programmer.+I+study+at+school+21.+I+post+my+finished+projects+on+GitHub." alt="Typing SVG" /></a>
 <h4 align="center"> <a align="center" href="https://t.me/syn_0tca">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
