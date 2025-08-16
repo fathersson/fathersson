@@ -7,7 +7,7 @@
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 <p></p>
-📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>domgarovwin@gmail.com</a>
+📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>domogarovwin@gmail.com</a>
 </h4>
 
 ## 🛠 Technical Stack
