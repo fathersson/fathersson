@@ -21,6 +21,6 @@
 
 ### My projects
 
-*   [SimpleBashUtils](https://github.com/fathersson/wb-demo-service) - Демонстрационный микросервис с Kafka, PostgreSQL, кешем (WbTex L0)
+*   [WbService](https://github.com/fathersson/wb-demo-service) - Демонстрационный микросервис с Kafka, PostgreSQL, кешем (WbTex L0)
 *   [SimpleBashUtils](https://github.com/fathersson/C3_SimpleBashUtils-1) - Development of Bash text utilities: cat, grep. (134% complete)
 *   [Stringplus](https://github.com/fathersson/C2_s21_stringplus-1) - Implementation of the string.h library (16 functions without tests and makefile)
